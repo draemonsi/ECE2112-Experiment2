@@ -5,7 +5,8 @@ Experiment 2 | Numerical Python (NUMPY)
 **NORMALIZATION PROBLEM:** Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
 mean and scaling means dividing with its standard deviation. Mathematically, normalization can be
-expressed as:<br/>𝑍 = (𝑋 − 𝑥̅) / 𝜎<br/>
+expressed as:<br/><img width="95" alt="image" src="https://github.com/user-attachments/assets/2c00a919-eb2e-482d-8b85-36d268522b9b">
+<br/>
 In Python, element-wise mean and element-wise standard deviation can be obtained by using .mean() and
 .std() calls.<br/>In this problem, create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized
 ndarray as X_normalized.npy
