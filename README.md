@@ -8,7 +8,7 @@ Intended Learning Outcomes:
 2. To be able to apply and use the different codes and functions in creating a Python program using a
 Numpy library
 
-NORMALIZATION PROBLEM: Normalization is one of the most basic preprocessing techniques in
+**NORMALIZATION PROBLEM:** Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
 mean and scaling means dividing with its standard deviation. Mathematically, normalization can be
 expressed as:
@@ -20,7 +20,7 @@ In this problem, create a random 5 x 5 ndarray and store it to variable X. Norma
 ndarray as X_normalized.npy
 
 
-DIVISIBLE BY 3 PROBLEM: Create the following 10 x 10 ndarray.
+**DIVISIBLE BY 3 PROBLEM:** Create the following 10 x 10 ndarray.
 
 <img width="289" alt="image" src="https://github.com/user-attachments/assets/051772c8-45a9-4e65-8b41-9a6545ff8950">
 
