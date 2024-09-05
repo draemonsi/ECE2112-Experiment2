@@ -1,6 +1,6 @@
 ## Programming-Assignment-2
 
-Experiment 2 | Numerical Python (NUMPY)
+### Experiment 2 | Numerical Python (NUMPY)
 
 **NORMALIZATION PROBLEM:** Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
