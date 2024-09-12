@@ -124,6 +124,6 @@ To run the provided python code, ensure you have the following installed:<br/>
 ---
 ## Author<br/>
 - Andrei Jorelle C. Simon<br/>
-  [GitHub Profile](https://wwww.github.com/draemonsi)
+  [GitHub Profile](https://github.com/draemonsi)
 
 
