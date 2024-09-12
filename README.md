@@ -120,10 +120,10 @@ To run the provided python code, ensure you have the following installed:<br/>
 - Jupyter Notebook for code execution and analysis
 ---
 ## License<br/>
-- This project is licensed under The Unlicense. Please see LICENSE file for more details.
+- This project is licensed under The Unlicense. Please see [LICENSE](license) file for more details.
 ---
 ## Author<br/>
 - Andrei Jorelle C. Simon<br/>
-  [GitHub Profile](github.com/draemonsi)
+  [GitHub Profile](https://wwww.github.com/draemonsi)
 
 
