@@ -95,7 +95,7 @@ To run the provided python code, ensure you have the following installed:<br/>
 
 ### Installation steps:<br/>
 1. Clone the repository:<br/>
-```git clone https://github.com/draemonsi/experiment-2-numpy.git``` <br/>
+```git clone https://github.com/draemonsi/ECE2112_Experiment2.git``` <br/>
 2. Navigate to the project folder: <br/>
 ```cd experiment-2-numpy``` <br/>
 3. INstall dependencies (if NumPy is not installed):<br/>
