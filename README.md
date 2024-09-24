@@ -1,7 +1,7 @@
 # Experiment 2: Numerical Python (NumPy)
 
 ## Course: ECE 2112 - Advanced Computer Programming and Algorithms <br/>
-**Institution**: University of Santo Tomas, Faculty of Enginering, Electronics Engineering Department
+**Institution**: University of Santo Tomas, Faculty of Engineering, Electronics Engineering Department
 
 ## Project Overview
 
@@ -96,9 +96,7 @@ To run the provided python code, ensure you have the following installed:<br/>
 ### Installation steps:<br/>
 1. Clone the repository:<br/>
 ```git clone https://github.com/draemonsi/ECE2112_Experiment2.git``` <br/>
-2. Navigate to the project folder: <br/>
-```cd experiment-2-numpy``` <br/>
-3. INstall dependencies (if NumPy is not installed):<br/>
+2. Install dependencies (if NumPy is not installed):<br/>
 ```pip install numpy```<br/>
 ---
 ## Usage
